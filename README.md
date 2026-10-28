@@ -21,3 +21,11 @@ Utiliser le **[projet GSM](https://github.com/GrCOTE7/GSM)**.
 ## → [Rappel du dial du 27/120/2026](https://discord.com/channels/@me/1564399567552647238/1564399575081427076)
 
 ### *(Lien du **canal Dicord** que pour les **personnes concernées**)*
+
+---
+
+### Tips
+
+### Outils
+
+#### - [Débogage Pas à Pas Pythontutor.com](https://pythontutor.com)
